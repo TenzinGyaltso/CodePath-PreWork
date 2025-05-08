@@ -1,8 +1,8 @@
-# Prework - *Name of App Here*
+# Prework - *IOS101-Prework*
 
 Submitted by: **Tenzin Gyaltso**
 
-**IOS101-prework** is an app that chnagels color of the screen whenever clicking the button that says Color Change  
+**IOS101-Prework** is an app that chnagels color of the screen whenever clicking the button that says Color Change  
 
 Time spent: **0.5** hours spent in total
 
