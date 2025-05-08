@@ -16,12 +16,23 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
-## Notes
+Tiktok: 
+Just the videos they recommend are ussualy the vidoes I enjoy watching.
+The Tiktok shop having good deals.
+They just added a new feature where you can comment a picture now which is hilarious.
 
-Describe any challenges encountered while building the app.
+Facebook:
+Just the marketplace, I pretty miuch use it everyday to find me good deals on anything I am interested in.
+The feature where you can choose the radius of the items you are looking for should be in.
 
 
-The only challenge I faced was the fact that you need to hover over some buttons to even see what they are called.
+Snapchat:  
+Just keeping my streaks with my friends and keeping it.
+Maybe using Snapchat reel, similar to tiktok.      
+
+
+An app I would like to create would be something related with car maintenence.
+It would be for people who are bad at keeping up with thier cars maintenence history. Instead of having people forget when they hould change their engine oil or change anythng on their car the app will notfiy you to change your oil depending on the avg miles you drive everyday. The app will be user friendly where you can choose when you want to chnage your oil no later than 10k miles. I would also implement an AI interface that can help you depending on the make and model of your vehicle you are having trouble with. You could ak it questions and it will answer to the best of its ability to find you the solution. Lastly you can as much cars on your profiles depending on hwo many cars you own it would just be located in your garage folder.
 
 ## License
 
